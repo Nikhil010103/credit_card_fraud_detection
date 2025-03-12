@@ -5,7 +5,7 @@ This project implements **Anomaly Detection** to identify fraudulent credit card
 - Uses **Machine Learning & Deep Learning** to detect anomalies.
 - Trained on the **Credit Card Fraud Dataset**.
 - Two models used:
-  - **Isolation Forest** (Unsupervised Anomaly Detection)
+  - **Isolation Forest** (Unsupervised Anomaly Detection) 
   - **Autoencoder** (Deep Learning-Based Detection)
 - Evaluates results based on **Precision, Recall, F1-Score, and ROC-AUC**.
 
